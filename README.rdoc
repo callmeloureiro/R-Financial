@@ -1,8 +1,7 @@
 == R-Financial
 
-###Financial System - Rails
+===Financial System - Rails - Open Source
 
 We are working bravely in this project, we are making phase to phase will soon posting updates R- Financial , wait ...
 
 
-<tt>rake doc:app</tt>.
